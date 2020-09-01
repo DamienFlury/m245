@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T14:42:36.455Z" agent="5.0 (X11)" etag="DBbHU7RDsVFhZhzbcxUc" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T14:44:31.101Z" agent="5.0 (X11)" etag="qyKCHbIN8LCvGHLaMkuA" version="13.6.6" type="github">
   <diagram id="rUbbHTuqV2mLyrjkurHX" name="Page-1">
     <mxGraphModel dx="981" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,6 +160,9 @@
         </mxCell>
         <mxCell id="AaafTBO7nF7nTQxxI8Bf-44" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="410" y="1190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AaafTBO7nF7nTQxxI8Bf-45" value="Computer reparieren" style="shape=umlFrame;whiteSpace=wrap;html=1;width=164;height=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="10" width="500" height="1250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
