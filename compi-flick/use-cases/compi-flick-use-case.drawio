@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T08:52:43.694Z" agent="5.0 (Windows)" etag="zryJHfkOK8DW_VpRJND_" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T09:20:24.159Z" agent="5.0 (X11)" etag="tL1OAzFJNBi_C73eoVS_" version="13.6.9" type="github">
   <diagram id="21VgOU-teF4cOT1An5-7" name="Page-1">
-    <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9S1AJZHRasZA08K6zmYZ-1" value="Compi-Flick" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=20;" parent="1" vertex="1">
-          <mxGeometry x="180" y="260" width="440" height="670" as="geometry" />
+          <mxGeometry x="180" y="320" width="440" height="610" as="geometry" />
         </mxCell>
         <mxCell id="9S1AJZHRasZA08K6zmYZ-2" value="Gerät vorbeibringen" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="370" width="150" height="60" as="geometry" />
+          <mxGeometry x="270" y="420" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9S1AJZHRasZA08K6zmYZ-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="9S1AJZHRasZA08K6zmYZ-5" target="9S1AJZHRasZA08K6zmYZ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,12 +35,12 @@
           <mxGeometry x="450" y="605" width="160" height="55" as="geometry" />
         </mxCell>
         <mxCell id="9S1AJZHRasZA08K6zmYZ-13" value="Rechnung schicken" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="750" width="150" height="60" as="geometry" />
+          <mxGeometry x="270" y="740" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-h9HNmAEF7GxXEI_rl2-3" value="Offerte erstellen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="540" width="160" height="60" as="geometry" />
+        <mxCell id="1-h9HNmAEF7GxXEI_rl2-3" value="Offerte erstellen" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="560" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1-h9HNmAEF7GxXEI_rl2-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="9S1AJZHRasZA08K6zmYZ-7" target="1-h9HNmAEF7GxXEI_rl2-3">
+        <mxCell id="1-h9HNmAEF7GxXEI_rl2-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="9S1AJZHRasZA08K6zmYZ-7" target="1-h9HNmAEF7GxXEI_rl2-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="632.8301886792453" as="sourcePoint" />
             <mxPoint x="278.535942474944" y="666.5162155613102" as="targetPoint" />
