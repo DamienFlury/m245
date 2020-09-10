@@ -1,0 +1,64 @@
+\documentclass[a4paper]{scrartcl}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{tabularx}
+\usepackage{multirow}
+
+\title{Compi-Flick: Interface Specification}
+\author{Damien Flury}
+\date{10. September 2020}
+
+\begin{document}
+  \maketitle
+
+  \begin{tabularx}{\textwidth}{ll X}
+    \hline
+    \multirow{3}{*}{Werkstatt} & Beschreibung & Standort der Filiale \\
+    & Typ & Text \\
+    & Beispiel & 8400 Winterthur \\ 
+    \hline
+    \multirow{3}{*}{Name} & Beschreibung & Name des Kunden \\
+    & Typ & Text (50 Zeichen) \\
+    & Beispiel & Muster \\
+    \hline
+    \multirow{3}{*}{Vorname} & Beschreibung & Vorname des Kunden \\
+    & Typ & Text (50 Zeichen) \\
+    & Beispiel & Hans \\
+    \hline
+    \multirow{3}{*}{Adresse} & Beschreibung & Adresse des Kunden \\
+    & Typ & Text (50 Zeichen) \\
+    & Beispiel & Pionierstrasse 1 \\
+    \hline
+    \multirow{3}{*}{PLZ} & Beschreibung & Postleitzahl \\
+    & Typ & Natürliche Zahl (4-stellig) \\
+    & Beispiel & 8400 \\
+    \hline
+    \multirow{3}{*}{Ort} & Beschreibung & Wohnort des Kunden \\
+    & Typ & Text (50 Zeichen) \\
+    & Beispiel & Winterthur \\
+    \hline
+    \multirow{3}{*}{Offertnummer} & Beschreibung & Nummer der Offerte \\
+    & Typ & Natürliche Zahl (8-stellig) \\
+    & Beispiel & 235216 \\
+    \hline
+    \multirow{3}{*}{Problembeschreibung} & Beschreibung & Beschreibung des Problems \\
+    & Typ & Text (240 Zeichen) \\
+    & Beispiel & Windows hat ständig einen Bluescreen \\
+    \hline
+    \multirow{3}{*}{Geräteidentifikation} & Beschreibung & Notebook von Dell \\ 
+    & Typ & Text (50 Zeichen) \\
+    & Beispiel & Dell XPS 15 \\
+    \multirow{3}{*}{Gerätetyp} & Beschreibung & Typ des Gerätes \\
+    & Typ & Text (50 Zeichen) \\
+    & Beispiel & Notebook \\
+    \multirow{3}{*}{Hersteller} & Beschreibung & Hersteller des Gerätes \\
+    & Typ & Text (100 Zeichen) \\
+    & Beispiel & Dell \\
+    \multirow{3}{*}{Marke} & Beschreibung & Genaue Marke des Gerätes \\
+    & Typ & Text (200 Zeichen) \\
+    & Beispiel & XPS 15 \\
+    \multirow{3}{*}{Seriennummer} & Beschreibung & Seriennummer des Gerätes \\
+  \end{tabularx}
+\end{document}
